@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Nocturnal Night Fever",
+  "base_artist": "天月、狂蘭メロコ、八雲べに、ライト",
+  "createdAt": "2025-12-10T13:14:30.723612Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nocturnal Night Fever",
+      "artist": "Amatsuki,Meloco Kyoran,Yakumo Beni,LIGHT",
+      "has_synced": false,
+      "path": "select/01_Nocturnal_Night_Fever_Amatsuki,Meloco_Kyoran,Yakumo_Beni,LIGHT.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nocturnal Night Fever",
+      "artist": "天月、狂蘭メロコ、八雲べに、ライト",
+      "has_synced": false,
+      "path": "select/pl_01_Nocturnal_Night_Fever_天月、狂蘭メロコ、八雲べに、ライト.txt"
+    }
+  ]
+}
